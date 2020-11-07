@@ -1,3 +1,23 @@
+## Introduction
+For this project, I have created a Pokedex using React and its Material UI Library as a regular attendee of Software Saturdays held by
+Purdue University's IEEE chapter. This Pokedex was the culmination of the Final Project by Software Saturdays and meets the Advanced ReactJS 
+certification awarded by the Purdue College of Engineering.
+
+## What is a Pokedex?
+It's essentially a vast encyclopedia that contains all the information of various Pokemons in the game, which includes information like height, weight, base XP, 
+and any other attributes associated with that Pokemon. For more information, you can read the history and the development of Pokedex here: https://bulbapedia.bulbagarden.net/wiki/Pok%C3%A9dex
+
+## My Pokedex!!!!
+Here's a link to my Pokedex: https://padnim14.github.io/pokedex/
+My Pokedex has the basic info of height, weight, and Base XP for all Pokemons. 
+In addition, I have added the "Level Up" sound effect when you press the button "More Pokemon!" by using the 
+UiFx library from React.
+
+
+
+
+
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
