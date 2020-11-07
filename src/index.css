@@ -1,0 +1,26 @@
+.center {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 20%;
+  }
+.table{
+    display: flex;
+    flex-wrap: wrap;
+    flex: 50%;
+    flex: 50%
+
+
+}
+.card{
+
+        background-color: #83a1f383;
+        color: #fffdfd;
+        font-size: 20px;
+        padding: 25px;
+        margin: 35px;
+        width: 150px;
+        height: auto;
+        border-radius: 10px;
+
+}
