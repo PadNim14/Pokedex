@@ -1,5 +1,5 @@
 ## Introduction
-For this project, I have created a Pokedex using React and its Material UI Library as a regular attendee of Software Saturdays held by
+For this project, I have created a Pokedex using React and its Material UI Library along with the Poke API as a regular attendee of Software Saturdays held by
 Purdue University's IEEE chapter. This Pokedex was the culmination of the Final Project by Software Saturdays and meets the Advanced ReactJS 
 certification awarded by the Purdue College of Engineering.
 
